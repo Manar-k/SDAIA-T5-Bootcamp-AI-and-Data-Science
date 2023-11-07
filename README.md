@@ -5,13 +5,19 @@ Working on projects that mimic real-world business problems to help apply the co
 Intensive educational paths aiming to qualify national cadres capable of building and developing solutions and applications in the fields of data and artificial intelligence.
 
 #### Domains:
+* SQL Training
+* Python Training
 * Data Mining and Analysis
 * Machine Learning
+* Deep Learning
 * Natural Language Processing
 * Computer Vision
+* Introduction to NoSQL and MongoDB
+* ML Ops
 * Predictive Analytics
 * Big Data
 * Ethics in Data Science and AI
+* Capstone Project
 
 ##### A training camp for “the nation’s young men and women” for 12 weeks - 320 trainees
 * Special training guidance for each trainee
